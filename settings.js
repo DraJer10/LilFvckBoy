@@ -18,7 +18,7 @@ global.payment = 'https://telegra.ph/file/1464e9e92026f9151ff96.jpg'
 global.packname = '𝕾𝖙𝖎𝖈𝖐𝖊𝖗❜𝖘'
 global.author = '𝕯𝖊𝕾𝖙𝖊𝖛𝖊'
 
-global.prefa = ['?']
+var.prefa = ['.']
 
 global.quotes = {
   welcome: 'Espero que te sientas como en casa aquí y no olvides seguir siempre las reglas existentes.',
