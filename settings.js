@@ -15,7 +15,7 @@ global.footer = '𝕲𝖆𝖟𝖆 𝕭𝖔𝖙'
 global.thumb = 'https://telegra.ph/file/1464e9e92026f9151ff96.jpg'
 global.payment = 'https://telegra.ph/file/1464e9e92026f9151ff96.jpg'
 
-global.packname = '@${m.sender.split('@')[0]}'
+global.packname = '𝕾𝖙𝖎𝖈𝖐𝖊𝖗❜𝖘'
 global.author = '𝕯𝖊𝕾𝖙𝖊𝖛𝖊'
 
 global.prefa = ['.']
