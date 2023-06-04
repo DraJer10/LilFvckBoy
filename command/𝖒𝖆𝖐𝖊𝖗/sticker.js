@@ -2,7 +2,7 @@ const { delay, extractMessageContent } = require("@adiwajshing/baileys")
 const { isUrl } = require("../../lib/Function")
 
 module.exports = {
-  name: "sticker",
+  name: "sticker/figu",
   cmd: ['s','sticker','figu','figu2',],
   category: 'maker',
   start: async(mom, m, { command, prefix, text, quoted, mime }) => {
