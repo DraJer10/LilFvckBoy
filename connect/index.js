@@ -5,7 +5,7 @@
 */
 
 require('../settings');
-const { default: makeWASocket, delay, DisconnectReason, fetchLatestBaileysVersion, makeInMemoryStore, useMultiFileAuthState, useSingleFileAuthState,  jidNormalizedUser, jidDecode } = require('@adiwajshing/baileys');
+const { default: makeWASocket, delay, DisconnectReason, fetchLatestBaileysVersion, makeInMemoryStore, useMultiFileAuthState, useSingleFileAuthState,  jidNormalizedUser, jidDecode } = require('@whiskeysockets/baileys');
 const { Boom } = require('@hapi/boom');
 const axios = require('axios');
 const cfonts = require('cfonts');
