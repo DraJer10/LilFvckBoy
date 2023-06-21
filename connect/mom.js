@@ -6,7 +6,7 @@
 
 //Module
 require('../settings')
-const { generateWAMessage, areJidsSameUser, proto } = require("@adiwajshing/baileys")
+const { generateWAMessage, areJidsSameUser, proto } = require("@whiskeysockets/baileys")
 const fs = require('fs')
 const chalk = require('chalk')
 const moment = require('moment-timezone')
