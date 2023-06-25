@@ -6,7 +6,7 @@ const readmore = more.repeat(4001)
 
 module.exports = {
   name: "menu", 
-  cmd: ['menu'],
+  cmd: ['menu1'],
   category: 'main',
   start: async (mom, m, { commands, args, prefix, text, toUpper }) => {
     const { pushName, sender } = m
